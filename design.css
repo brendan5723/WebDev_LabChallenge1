@@ -53,9 +53,9 @@ ul {
 
 
 .navbar {
-    text-align: left; /* Aligns text to the left */
+    text-align: left; 
     background-color: rgb(147, 147, 147);
-    padding: 10px 0 10px 20px; /* Top, Right, Bottom, Left Padding */
+    padding: 10px 0 10px 20px; 
     margin: 0;
 }
 
@@ -68,25 +68,25 @@ ul {
 
 
 .bottom-image img {
-    width: 75%; /* Keeps the reduced width */
-    height: auto; /* Maintains aspect ratio */
-    display: inline-block; /* Changes display to inline-block for centering */
+    width: 75%; 
+    height: auto; 
+    display: inline-block; 
 }
 
 ul {
-    /* existing styles */
-    margin-bottom: 20px; /* Adjust the value as needed */
+  
+    margin-bottom: 20px; 
 }
 
 
 .bottom-image {
-    text-align: center; /* Centers inline or inline-block elements within the container */
-    margin-top: 20px; /* Keeps the previous top margin for spacing */
+    text-align: center; 
+    margin-top: 20px; 
 }
 
 .bottom-image img {
-    width: 75%; /* Reduce the width to 75% of its current size */
-    height: auto; /* This will maintain the aspect ratio */
+    width: 75%; 
+    height: auto; 
 }
 
 
